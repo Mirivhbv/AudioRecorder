@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHIp+LyVqhL4Uz7sIQnVF5hREr7JOY5iNF0gj5BNxgiyVM60HdiLVqrx6gfkUxxpUuYoUONw0B6Zlt5OuagWVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ITGrup\\source\\repos\\AudioRecorder\\AudioRecorder\\AudioRecorder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ITGrup\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\ITGrup\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\ITGrup\\.nuget\\packages\\naudio\\1.10.0\\naudio.1.10.0.nupkg.sha512",
+    "C:\\Users\\ITGrup\\.nuget\\packages\\system.resources.extensions\\4.7.0\\system.resources.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\ITGrup\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\ITGrup\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

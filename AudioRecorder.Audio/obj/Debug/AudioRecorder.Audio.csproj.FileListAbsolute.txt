@@ -1,0 +1,6 @@
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Audio\bin\Debug\AudioRecorder.Audio.dll
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Audio\bin\Debug\AudioRecorder.Audio.pdb
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Audio\obj\Debug\AudioRecorder.Audio.csprojAssemblyReference.cache
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Audio\obj\Debug\AudioRecorder.Audio.csproj.CoreCompileInputs.cache
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Audio\obj\Debug\AudioRecorder.Audio.dll
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Audio\obj\Debug\AudioRecorder.Audio.pdb

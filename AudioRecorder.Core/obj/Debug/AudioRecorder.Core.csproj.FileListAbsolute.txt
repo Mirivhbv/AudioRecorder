@@ -1,0 +1,14 @@
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\bin\Debug\AudioRecorder.Core.dll
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\bin\Debug\AudioRecorder.Core.pdb
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\bin\Debug\AudioRecorder.Audio.dll
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\bin\Debug\WindowsBase.dll
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\bin\Debug\AudioRecorder.Audio.pdb
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\obj\Debug\AudioRecorder.Core.csprojAssemblyReference.cache
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\obj\Debug\PolygonWaveFormControl.baml
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\obj\Debug\PolygonWaveFormControl.g.cs
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\obj\Debug\AudioRecorder.Core_MarkupCompile.cache
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\obj\Debug\AudioRecorder.Core.g.resources
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\obj\Debug\AudioRecorder.Core.csproj.CoreCompileInputs.cache
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\obj\Debug\AudioRecorder.Core.csproj.CopyComplete
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\obj\Debug\AudioRecorder.Core.dll
+C:\Users\ITGrup\source\repos\AudioRecorder\AudioRecorder.Core\obj\Debug\AudioRecorder.Core.pdb
