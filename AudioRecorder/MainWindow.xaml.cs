@@ -67,11 +67,11 @@ namespace AudioRecorder
             //content.Headers.ContentType = MediaTypeHeaderValue.Parse("audio/wav");
             content.Add(audioByte, "audio", fn);
             using var message = await client.PostAsync(this.uriApi, content);
-            // var input = await message.Content.ReadAsStringAsync();
+            var input = await message.Content.ReadAsStringAsync();
 
             if (message.StatusCode == HttpStatusCode.OK)
             {
-                MessageBox.Show("Uploaded!");
+                MessageBox.Show("Uploaded!\n" + $"{input}");
             }
             else
             {
