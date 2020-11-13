@@ -11,5 +11,6 @@
         <Label Margin="5" HorizontalAlignment="Center" FontWeight="Bold" FontSize="20">Audio Recorder</Label>
         <Button x:Name="recordBtn" Margin="5" Content="Record" HorizontalAlignment="Center" VerticalAlignment="Top" Height="34" Width="50" Click="Button_Click"/>
         <my:PolygonWaveFormControl Margin="5" Height="40" SampleAggregator="{Binding SampleAggregator}" IsEnabled="{Binding RecordState}"/>
+        <Button Content="Restart" Click="ButtonBase_OnClick"/>
     </StackPanel>
 </Window>

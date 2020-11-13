@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Diagnostics;
 using System.Net;
 using System.Net.Http;
 using System.Runtime.CompilerServices;
@@ -94,5 +95,11 @@ namespace AudioRecorder
         }
 
         #endregion
+
+        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        {
+            Process.Start("AudioRecorder.exe");
+            Application.Current.Shutdown();
+        }
     }
 }
